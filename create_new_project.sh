@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # This script creates a new project folder, depending on the programming language in use.
 # Author: Georg Pohl, 70174 Stuttgart
-# Last change: 15.12.2024
+# Last changes: 15.12.2024
 
 # Folder structure:
 # .
